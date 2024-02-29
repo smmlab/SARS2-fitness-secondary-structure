@@ -1,6 +1,6 @@
 # Data and analysis scripts for ***Secondary structure of the SARS-CoV-2 genome is predictive of nucleotide substitution frequency***
 
-Related to the manuscript: *Secondary structure of the SARS-CoV-2 genome is predictive of nucleotide substitution frequency* (**PUT bioRxiv DOI here**)
+Related to the manuscript: *Secondary structure of the SARS-CoV-2 genome is predictive of nucleotide substitution frequency* ([DOI: 10.1101/2024.02.27.581995](https://doi.org/10.1101/2024.02.27.581995))
 
 ## File descriptions
 
