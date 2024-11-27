@@ -2,3 +2,6 @@
 *.old
 manuscript/
 preliminary/
+private/
+.vscode/
+submissions/
